@@ -1,0 +1,2 @@
+-When run under a directory, infects all elf files and prints "I am a simple Virus" while maintaining the original functionality of the file.
+- To run: ./simplevirus
